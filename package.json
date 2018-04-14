@@ -1,0 +1,17 @@
+{
+  "name": "dril",
+  "bin": "./index.js",
+  "version": "923.0.0",
+  "description": "no",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MainShayne233/dril.git"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
